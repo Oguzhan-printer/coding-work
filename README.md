@@ -24,8 +24,4 @@ Thanks to this study session, I achieved significant gains in the following area
 
 This study session was a very valuable experience to strengthen my basic programming skills and improve my algorithmic thinking ability. Thanks to the various problems I solved, I better understood the importance of loops and conditional statements in programming. These practices enabled me to build a solid foundation before starting to work on more complex algorithms and projects.
 
-**Looking Ahead:**
 
-In the next step, I plan to work on more complex algorithms and data structures using this basic knowledge. Perhaps I can develop a small project using what I have learned.
-
-#coding #practice #algorithm #loops #conditionalstatements #basicprogramming #development #education #learning
